@@ -8,19 +8,19 @@
     <fragment
         android:id="@+id/navigation_alumno"
         android:name="com.tecsup.pm.gocar.ui.alumno.AlumnoFragment"
-        android:label="@string/title_home"
+        android:label="@string/title_alumno"
         tools:layout="@layout/fragment_alumno" />
 
     <fragment
         android:id="@+id/navigation_catalogo"
         android:name="com.tecsup.pm.gocar.ui.catalogo.CatalogoFragment"
-        android:label="@string/title_dashboard"
+        android:label="@string/title_catalogo"
         tools:layout="@layout/fragment_catalogo" />
 
     <fragment
-        android:id="@+id/navigation_notifications"
-        android:name="com.tecsup.pm.gocar.ui.notifications.NotificationsFragment"
-        android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        android:id="@+id/navigation_busqueda"
+        android:name="com.tecsup.pm.gocar.ui.busqueda.BusquedaFragment"
+        android:label="@string/title_busqueda"
+        tools:layout="@layout/fragment_busqueda" />
 
 </navigation>

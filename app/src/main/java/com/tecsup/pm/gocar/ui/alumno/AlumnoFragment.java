@@ -14,7 +14,6 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.tecsup.pm.gocar.R;
-import com.tecsup.pm.gocar.ui.dashboard.DashboardViewModel;
 
 /**
  * A simple {@link Fragment} subclass.
